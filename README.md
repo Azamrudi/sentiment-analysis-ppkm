@@ -11,7 +11,7 @@ Project ini melakukan analisis sentimen masyarakat terhadap kebijakan PPKM mengg
 6. Visualization (WordCloud, Pie Chart, Bar Chart)
 
 ## Accuracy Model
-Accuracy: 0.85
+Accuracy: 0.81
 
 ## Library
 - Pandas
