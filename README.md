@@ -1,6 +1,7 @@
 # Sentiment Analysis Twitter PPKM
 
 Project ini melakukan analisis sentimen masyarakat terhadap kebijakan PPKM menggunakan data Twitter dan algoritma Naive Bayes.
+Menggunakan dataset kaggle (2020-2022)
 
 ## Tahapan Project
 1. Data Collection
